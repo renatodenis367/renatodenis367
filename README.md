@@ -19,21 +19,91 @@ I'm a data enthusiast currently building my skills through an **online data anal
 
 ## 🛠️ Tech Stack & Skills
 
-### 📊 Data Analysis & Visualization
+### 📊 Microsoft Excel
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+- Data cleaning & preparation (removing duplicates, handling blanks, text-to-columns)
+- Data aggregation with **Pivot Tables** and **Pivot Charts**
+- Lookup & reference functions (**VLOOKUP, XLOOKUP, INDEX/MATCH**)
+- Conditional logic & formulas (**IF, SUMIFS, COUNTIFS, AVERAGEIFS**)
+- Data validation and conditional formatting
+- Building summary reports and dashboards
+
+### 📈 Tableau
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+- Connecting to and blending multiple data sources
+- Building interactive **dashboards** and **stories**
+- Calculated fields and table calculations
+- Filters, parameters, and actions for interactivity
+- Chart design: bar, line, scatter, heatmaps, maps
+- Data storytelling and visual best practices
+
+### 📉 Power BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 🗄️ Databases & Query Languages
+- Data modeling (star schema, relationships)
+- **Power Query** for data transformation and cleaning
+- **DAX** measures and calculated columns
+- Building interactive reports and dashboards
+- Slicers, drill-through, and cross-filtering
+- Publishing and sharing reports
+
+### 🗄️ SQL
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🐍 Programming & Data Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Querying and filtering data (**SELECT, WHERE, ORDER BY**)
+- **Data aggregation** (**GROUP BY, HAVING, SUM, AVG, COUNT**)
+- Joins across tables (**INNER, LEFT, RIGHT, FULL**)
+- Subqueries and Common Table Expressions (CTEs)
+- Window functions (**ROW_NUMBER, RANK, LAG/LEAD**)
+- Data cleaning and validation queries
 
-### ☁️ Cloud
+### ☁️ Microsoft Azure Cloud
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+- Cloud fundamentals and core Azure services
+- Data storage concepts (Blob Storage, Data Lake)
+- Introduction to **Azure Data Factory** for data pipelines
+- Working with cloud-hosted databases
+- Basics of deploying and managing cloud resources
+
+### 🐍 Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Data cleaning** (handling missing values, duplicates, type conversion)
+- **Data aggregation** and summarization
+- Exploratory Data Analysis (EDA)
+- Reading/writing files (**CSV, Excel, JSON**)
+- Automating repetitive data tasks
+- Working with lists, dictionaries, functions, and loops
+
+### 🐼 pandas
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **DataFrame & Series** manipulation
+- **Data cleaning**: `dropna()`, `fillna()`, `drop_duplicates()`, `astype()`
+- **Data aggregation**: `groupby()`, `agg()`, `pivot_table()`
+- Combining data with `merge()`, `join()`, `concat()`
+- Reshaping data (`melt`, `pivot`, `stack`/`unstack`)
+- Filtering, sorting, and indexing (`loc`, `iloc`)
+- String and date/time operations
+
+---
+
+### 🎯 Skills at a Glance
+
+| Skill Area | Tools |
+|---|---|
+| **Data Cleaning** | Excel, Python, pandas, SQL |
+| **Data Aggregation** | Excel (Pivot Tables), SQL (GROUP BY), pandas (groupby) |
+| **Data Visualization** | Tableau, Power BI, Excel |
+| **Dashboards & Reporting** | Tableau, Power BI, Excel |
+| **Querying Databases** | SQL |
+| **Automation & Scripting** | Python |
+| **Cloud Data Services** | Azure |
+
+> 💡 *All skills above are being developed and applied through hands-on projects in my data analytics bootcamp.*
 ---
 
 ## 🎓 Currently Learning
@@ -42,15 +112,6 @@ I'm a data enthusiast currently building my skills through an **online data anal
 > Excel → SQL → Python (pandas) → Tableau → Power BI → Azure Cloud
 
 I'm consistently adding new projects here as I complete modules. Check back soon! 🚀
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renatodenis367&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodenis367&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
